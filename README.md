@@ -36,6 +36,7 @@ void printArray(int numbers[], int sz)
 }
 
 int main(void)
+
 {
 	int i, numInputs;
 	char* str;
